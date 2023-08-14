@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  schedule:
+    - cron: 0 * * * *
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          base: header, activity, community, repositories
+          base_indepth: yes
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_skipped: dmenu,dwm,st
