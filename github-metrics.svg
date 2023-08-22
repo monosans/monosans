@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 52 repositories
+                            Contributed to 54 repositories
                         </div>
                     </section>
                 </div>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    254 MB used
+                                    209 MB used
                                 </div>
                             </section>
                             <section>
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.1377475687024" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="350.1377475687024" y="0" width="70.69567402441785" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="420.8334215931203" y="0" width="25.846120618939928" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="446.67954221206026" y="0" width="4.428689207177909" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="451.10823141923817" y="0" width="3.930987076690486" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.03921849592865" y="0" width="3.028245208531918" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.0674637044605" y="0" width="1.018331038578872" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.0857947430394" y="0" width="0.9142052569605821" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="350.1660310137712" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="350.1660310137712" y="0" width="70.67747380397253" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="420.84350481774374" y="0" width="25.83946667441769" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="446.6829714921614" y="0" width="4.427549064998536" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="451.11052055716" y="0" width="3.9299750652435237" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.04049562240345" y="0" width="3.02746560311591" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.06796122551935" y="0" width="1.0180688747386626" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.08603010025803" y="0" width="0.9139698997419325" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,7 +284,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>15.37%</div>
+                                <div>15.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
