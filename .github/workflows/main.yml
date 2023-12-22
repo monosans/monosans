@@ -21,6 +21,6 @@ jobs:
           base_indepth: yes
           plugin_languages: yes
           plugin_languages_details: percentage
-          # plugin_languages_indepth: yes
-          # plugin_languages_skipped: dmenu,dwm,st
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 10
           repositories_affiliations: owner,collaborator
