@@ -17,10 +17,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories
-          base_hireable: yes
           base_indepth: yes
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
-          plugin_languages_limit: 10
           repositories_affiliations: owner,collaborator
