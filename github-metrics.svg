@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 10.6mb of code in 11613 edited files across 6044 commits</small>
+                <small>estimation from 10.6mb of code in 11625 edited files across 6047 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.0701267919188" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="312.0701267919188" y="0" width="77.80826737256471" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="389.87839416448355" y="0" width="43.26564278440553" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="433.14403694888904" y="0" width="11.930988606904657" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.07502555579373" y="0" width="5.166798381889884" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.2418239376836" y="0" width="4.277593579159763" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="454.51941751684336" y="0" width="4.069303273161302" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.58872079000463" y="0" width="1.4112792099953286" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.78834575222044" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="311.78834575222044" y="0" width="77.65128285153253" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="389.43962860375296" y="0" width="43.178350823807854" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="432.61797942756084" y="0" width="11.906916864978738" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.52489629253955" y="0" width="5.156373945044798" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="449.68127023758433" y="0" width="4.641334737772922" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="454.32260497535725" y="0" width="4.268963185477054" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.5915681608343" y="0" width="1.4084318391656587" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -239,7 +239,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>67.84%</div>
+                                <div>67.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -250,7 +250,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>9.41%</div>
+                                <div>9.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -267,12 +267,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Rust
                             </div>
                             <small>
-                                <div>0.88%</div>
+                                <div>0.93%</div>
                             </small>
                         </div>
                     </section>
@@ -285,7 +285,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>16.91%</div>
+                                <div>16.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -302,12 +302,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Rust
+                                Dockerfile
                             </div>
                             <small>
-                                <div>0.93%</div>
+                                <div>1.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
